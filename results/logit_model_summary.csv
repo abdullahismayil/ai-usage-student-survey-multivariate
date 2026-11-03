@@ -1,0 +1,10 @@
+metric,value
+N,489.0
+-2 log-likelihood,558.891
+Omnibus chi2 (df=5),76.5715
+Omnibus p,0.0
+Cox & Snell R2,0.1449
+Nagelkerke R2,0.1993
+Hosmer-Lemeshow chi2 (df=8),6.1239
+Hosmer-Lemeshow p,0.6334
+Classification accuracy,0.6728
